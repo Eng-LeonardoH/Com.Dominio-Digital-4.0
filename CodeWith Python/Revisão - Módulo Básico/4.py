@@ -1,12 +1,15 @@
 # 4. Crie um algoritmo que receba 3
-# números e informe qual o maior entre
-# eles.
-
+# números e informe qual o maior entre eles.
 cont = "1"
 while cont == "1":
     numero1 = float(input("Digite o 1º número: "))
     numero2 = float(input("Digite o 2º número: "))
     numero3 = float(input("Digite o 3º número: "))
+    while numero3 == numero1 == numero2:
+        print("Os três números não podem ser iguais")
+        numero1 = float(input("Digite o 1º número: "))
+        numero2 = float(input("Digite o 2º número: "))
+        numero3 = float(input("Digite o 3º número: "))
     if numero2 > numero1:
         if numero3 > numero2:
             print(f"3º numero é o maior - ({numero3})")

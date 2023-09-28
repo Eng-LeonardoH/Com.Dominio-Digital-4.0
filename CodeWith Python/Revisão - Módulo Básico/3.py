@@ -1,7 +1,4 @@
-# 3. Crie um código que leia a idade de
-# uma pessoa e diga em qual ano ela
-# nasceu
-
+# 3. Crie um código que leia a idade de uma pessoa e diga em qual ano ela nasceu
 ano_atual = 2023
 mes_atual = 9
 ano_nascimento = 0
