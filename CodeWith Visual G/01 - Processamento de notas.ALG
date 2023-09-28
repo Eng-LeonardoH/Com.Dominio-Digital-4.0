@@ -1,8 +1,8 @@
 Algoritmo "Processamento de notas"
 // Disciplina   : Desafio - Estruturas condicionais
 // Professor   : Wellington de Moraes Oliveira
-// DescriÁ„o   : Programa para analisar a mÈdia do aluno e reportar
-//               sua situaÁ„o em relaÁ„o mÈdia.
+// Descri√ß√£o   : Programa para analisar a m√©dia do aluno e reportar
+//               sua situa√ß√£o em rela√ß√£o m√©dia.
 // Autor(a)    : Leonardo Henrique Araujo de Melo  < LEONARDO >
 // Data atual  : 02/09/2023
 Var
@@ -11,14 +11,14 @@ media_aluno: inteiro
 
 Inicio
 
-escreva("Digite a mÈdia do aluno: ")
+escreva("Digite a m√©dia do aluno: ")
 leia(media_aluno)
 
-se(media_aluno >= 7)    ent„o
+se(media_aluno >= 7)    ent√£o
 escreva("APROVADO")
 senao
-se(media_aluno >= 5)ent„o
-escreva("RECUPERA«√O")
+se(media_aluno >= 5)ent√£o
+escreva("RECUPERA√á√ÉO")
 senao
 escreva("REPROVADO")
 fimse
