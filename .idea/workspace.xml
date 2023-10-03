@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="528fa2b5-fef4-4bd3-acc4-30ce8f27c312" name="Changes" comment="Reestruturação das pastas e inclusão das atividades da aula do dia 03/10/23.">
-      <change afterPath="$PROJECT_DIR$/CodeWith Python/Aula 1 - Array/EX2 - Salvar notas de alunos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeWith Python/Desafio 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="528fa2b5-fef4-4bd3-acc4-30ce8f27c312" name="Changes" comment="Update - Atividades da aula do dia 03/10/23.">
+      <change afterPath="$PROJECT_DIR$/CodeWith Python/Aula 1 - Array/EX3 - Multiplicador de valores de um vetor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWith Python/Aula 1 - Array/EX4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWith Python/Aula 1 - Array/Lista de alunos.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWith Python/Aula 1 - Array/EX1 - Lista de alunos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Este PC está sendo usado por Leonardo H. - Turma A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Desafio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWith Python/Desafio 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696337384329</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update - Atividades da aula do dia 03/10/23.">
+      <option name="closed" value="true" />
+      <created>1696341436074</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696341436074</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +209,7 @@
     <MESSAGE value="Execução de exercícios 11 até o 17, conforme orientado em sala." />
     <MESSAGE value="Ajuste dos nomes dos arquivos." />
     <MESSAGE value="Reestruturação das pastas e inclusão das atividades da aula do dia 03/10/23." />
-    <option name="LAST_COMMIT_MESSAGE" value="Reestruturação das pastas e inclusão das atividades da aula do dia 03/10/23." />
+    <MESSAGE value="Update - Atividades da aula do dia 03/10/23." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update - Atividades da aula do dia 03/10/23." />
   </component>
 </project>
