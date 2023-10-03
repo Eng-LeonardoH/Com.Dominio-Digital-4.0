@@ -1,0 +1,2 @@
+Instalei o programa abaixo:
+Syncthing - em "C:\Syncthing" #Programa com a finalidade de sincronizar as atividades do curso entre meus dispositivos.
