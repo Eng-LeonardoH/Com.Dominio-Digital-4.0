@@ -4,22 +4,179 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="528fa2b5-fef4-4bd3-acc4-30ce8f27c312" name="Changes" comment="Update - Atividades da aula do dia 03/10/23.">
-      <change afterPath="$PROJECT_DIR$/CodeWith Python/Aula 2 - Funções/01 - Funções.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeWith Python/Aula 2 - Funções/02 - Funções.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeWith Python/Aula 2 - Funções/03 - Menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeWith Python/Aula 2 - Funções/04 - Funções.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeWith Python/Aula 2 - Funções/05 - Programa para imprimir números.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeWith Python/Aula 2 - Funções/06 - Programa para imprimir números.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeWith Python/Aula 2 - Funções/07 - Contar vogais.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeWith Python/Aula 2 - Funções/08 - Produto, quantidade e valor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biblioteca.py" afterDir="false" />
+    <list default="true" id="fbb753a1-f519-435c-9b37-763f2b1e6fbb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CodeWith Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 1/Exercício 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 1/Exercício 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 1/Exercício 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 1/Exercício 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 1/Exercício 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 2/Exercício 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 2/Exercício 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 2/Exercício 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 2/if and else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 3/Desafio 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 3/Exercício 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 3/Exercício 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 3/Exercício 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 3/For.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 4/Exercício 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 4/Exercício 2 - For.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 4/Exercício 3 - For.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 4/Exercício 4 - for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 4/Exercício 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 4/Exercício 6 - for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 4/Exercício 7 - For.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 4/Exercício 8 - FOR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 5/Exercício 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 5/Exercício 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 5/Exercício 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 5/Exercício 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 6/Desafio 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 6/Desafio 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 6/Exercício 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 7/Rev 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 7/Rev 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 7/Rev 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 7/Rev 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 8 - Array/Aula 1 - Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 8 - Array/EX1 - Lista de alunos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 8 - Array/EX2 - Salvar notas de alunos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 8 - Array/EX3 - Multiplicador de valores de um vetor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 8 - Array/EX4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 9 - Funções/01 - Funções.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 9 - Funções/02 - Funções.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 9 - Funções/03 - Menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 9 - Funções/04 - Funções.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 9 - Funções/05 - Programa para imprimir números.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 9 - Funções/06 - Programa para imprimir números.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 9 - Funções/07 - Contar vogais.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Aula 9 - Funções/08 - Produto, quantidade e valor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Desafio 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Hello World.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/08-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/08-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/Revisão - Módulo Básico/Exercícios revisão.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Módulo básico/biblioteca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Depoimentos escritos/Bate-Papo sobre Carreira Profissional (Ambikira - CDD 4.0).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Aula 1 - Array/Aula 1 - Array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Aula 1 - Array/EX1 - Lista de alunos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Aula 1 - Array/EX2 - Salvar notas de alunos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Aula 1 - Array/EX3 - Multiplicador de valores de um vetor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Aula 1 - Array/EX4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Aula 2 - Funções/01 - Funções.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Aula 2 - Funções/02 - Funções.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Aula 2 - Funções/03 - Menu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Aula 2 - Funções/04 - Funções.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Aula 2 - Funções/05 - Programa para imprimir números.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Aula 2 - Funções/06 - Programa para imprimir números.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Aula 2 - Funções/07 - Contar vogais.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Aula 2 - Funções/08 - Produto, quantidade e valor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Desafio 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 1/Exercício 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 1/Exercício 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 1/Exercício 3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 1/Exercício 4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 1/Exercício 5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 2/Exercício 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 2/Exercício 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 2/Exercício 3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 2/if and else.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 3/Desafio 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 3/Exercício 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 3/Exercício 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 3/Exercício 3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 3/For.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 4/Exercício 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 4/Exercício 2 - For.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 4/Exercício 3 - For.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 4/Exercício 4 - for.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 4/Exercício 5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 4/Exercício 6 - for.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 4/Exercício 7 - For.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 4/Exercício 8 - FOR.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 5/Exercício 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 5/Exercício 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 5/Exercício 3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 5/Exercício 4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 6/Desafio 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 6/Desafio 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 6/Exercício 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 7/Rev 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 7/Rev 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 7/Rev 3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Aula 7/Rev 4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Hello World.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/08-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/08-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Python/Módulo Básico/Revisão - Módulo Básico/Exercícios revisão.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Visual G/01 - Processamento de notas.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWith Visual G/02 - Soma de dois números.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Material de consulta - Slides de Aula/Algoritmos e Lógica de Programação Aula 01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Material de consulta - Slides de Aula/Algoritmos e Lógica de Programação Aula 02.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Material de consulta - Slides de Aula/Algoritmos e Lógica de Programação Aula 03.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Material de consulta - Slides de Aula/Algoritmos e Lógica de Programação Aula 04.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/biblioteca.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeWith Visual G/01 - Processamento de notas.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeWith Visual G/02 - Soma de dois números.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../biblioteca.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desktop.ini" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,27 +188,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Eng-LeonardoH&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="7c6956bb-c69b-4166-96f7-cc836435a984" />
-        <option name="url" value="https://github.com/Eng-LeonardoH/Com.Dominio-Digital-4.0.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
+  &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="2W1f0pKyOQGhkxmBzr43aemRqAe" />
+  <component name="ProjectId" id="2XFonUwpRjWbLnwIEOWei3SqRRf" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -62,148 +202,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/TURMA-A/Desktop/CodeWith Python/Aula 2 - Funções",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "consents",
-    "vue.rearranger.settings.migration": "true"
+    "last_opened_file_path": "C:/Users/TURMA-A/Sync Code/Com.Dominio-Digital-4.0/CodeWith Python"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\TURMA-A\Desktop\CodeWith Python\Aula 2 - Funções" />
-      <recent name="C:\Users\Admin\Documents\00.Estudos\Code\Com.Dominio-Digital-4.0\CodeWith Python\Revisão - Módulo Básico" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\TURMA-A\Desktop" />
-      <recent name="C:\Users\TURMA-A\Desktop\CodeWith Python\Aula 1 - Array" />
-      <recent name="C:\Users\TURMA-A\Desktop\CodeWith Python" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Com.Dominio-Digital-4.0" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeWith Python/Revisão - Módulo Básico" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeWith Python/Revisão - Módulo Básico/17.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.17" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="528fa2b5-fef4-4bd3-acc4-30ce8f27c312" name="Changes" comment="" />
-      <created>1695904786296</created>
+      <changelist id="fbb753a1-f519-435c-9b37-763f2b1e6fbb" name="Changes" comment="" />
+      <created>1698234355415</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1695904786296</updated>
-      <workItem from="1695904789392" duration="6799000" />
-      <workItem from="1696130484537" duration="1290000" />
-      <workItem from="1696132068477" duration="4994000" />
-      <workItem from="1696210315138" duration="176000" />
+      <updated>1698234355415</updated>
     </task>
-    <task id="LOCAL-00001" summary="Inclusão do arquivo &quot;Exercícios revisão.pdf&quot; e correção dos códigos propostos de acordo com os comentários do pdf.">
-      <option name="closed" value="true" />
-      <created>1695911127269</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1695911127269</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Alteração do exercício 9.">
-      <option name="closed" value="true" />
-      <created>1695912430285</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1695912430285</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Alteração do exercício 9.&#10;Ajuste para tratamento de erros de entrada">
-      <option name="closed" value="true" />
-      <created>1695912953176</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1695912953176</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Execução de exercícios 11 até o 17, conforme orientado em sala.">
-      <option name="closed" value="true" />
-      <created>1696136600807</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1696136600807</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Ajuste dos nomes dos arquivos.">
-      <option name="closed" value="true" />
-      <created>1696136680525</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1696136680525</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Ajuste dos nomes dos arquivos.">
-      <created>1696211457845</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1696211457845</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Reestruturação das pastas e inclusão das atividades da aula do dia 03/10/23.">
-      <option name="closed" value="true" />
-      <created>1696337384329</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1696337384329</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Update - Atividades da aula do dia 03/10/23.">
-      <option name="closed" value="true" />
-      <created>1696341436074</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1696341436074</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Update - Atividades da aula do dia 03/10/23.">
-      <option name="closed" value="true" />
-      <created>1696344084950</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1696344084950</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -218,14 +232,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update and rename PROCESSAMENTO DE NOTAS.ALG to 01 - Processamento de notas.ALG" />
-    <MESSAGE value="Inclusão do arquivo &quot;Exercícios revisão.pdf&quot; e correção dos códigos propostos de acordo com os comentários do pdf." />
-    <MESSAGE value="Alteração do exercício 9." />
-    <MESSAGE value="Alteração do exercício 9.&#10;Ajuste para tratamento de erros de entrada" />
-    <MESSAGE value="Execução de exercícios 11 até o 17, conforme orientado em sala." />
-    <MESSAGE value="Ajuste dos nomes dos arquivos." />
-    <MESSAGE value="Reestruturação das pastas e inclusão das atividades da aula do dia 03/10/23." />
-    <MESSAGE value="Update - Atividades da aula do dia 03/10/23." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update - Atividades da aula do dia 03/10/23." />
   </component>
 </project>

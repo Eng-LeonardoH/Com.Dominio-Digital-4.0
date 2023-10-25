@@ -2,4 +2,4 @@
 
 lista_compras = ["Banana","Laranja","Maçã"]
 for i in lista_compras:
-    print(i)
+    print()

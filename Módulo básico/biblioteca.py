@@ -43,3 +43,8 @@ def contar_vogais(str):
 def valor_estoque(produto_nome, qtd, valor_unitario):
     valor_total = qtd * valor_unitario
     return valor_total
+
+def tamanho_vetor(vet):
+    for i in (Vet):
+        contador += 1
+    return contador
