@@ -48,3 +48,51 @@ def tamanho_vetor(vet):
     for i in (Vet):
         contador += 1
     return contador
+
+def forca(chance):
+    if chance == 0:
+        print("""        
+  /----------¬            
+ //          O          
+||          |@|           
+||           |            
+||          / \ 
+||     - Game Over -     """)
+    elif chance == 1:
+        print("""        
+  /----------¬            
+ //          O          
+||          |@|           
+||                       
+||               
+||Você ainda tem 1 chance """)
+
+    elif chance == 2:
+        print("""        
+  /----------¬            
+ //          O          
+||           @            
+||                       
+||               
+||Você ainda tem 2 chances""")
+    elif chance == 3:
+        print("""        
+        /----------¬            
+ //          O          
+||                       
+||                       
+||               
+||Você ainda tem 3 chances""")
+    elif chance == 4:
+        print("""        
+  /----------¬            
+ //                     
+||                           
+||                                       
+||               
+||Você tem 4 chances""")
+def receber_letra():
+    letra = input("Digite uma letra: ")
+    while len(letra) != 1:
+        letra = input("Erro de entrada, digite uma letra: ")
+    return letra

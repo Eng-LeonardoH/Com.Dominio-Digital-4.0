@@ -4,8 +4,8 @@ entrada01 = 0
 entrada02 = 0
 fim_partida = "0"
 turno = 0
-jogadores[0] = "Leo" #input(f"Digite o nome do 1º jogador: ") TESTES
-jogadores[1] = "Juca" #input(f"Digite o nome do 2º jogador: ") TESTES
+jogadores[0] = input(f"Digite o nome do 1º jogador: ")
+jogadores[1] = input(f"Digite o nome do 2º jogador: ")
 
 #for i in range(2):
 #   jogadores[i] = input(f"Digite o nome do {i}º jogador: ")
