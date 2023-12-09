@@ -1,5 +1,4 @@
 package Java_POO;
-
 public class SegundaClasse {
 	public static void main(String[] args) {
 		Classe_Pessoa aluno01 = new Classe_Pessoa();
