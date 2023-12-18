@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Code_With_Java {
+module Java2 {
 }
