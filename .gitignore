@@ -3,10 +3,5 @@
 .classpath
 Code With Java/.vscode
 .lock
-*.class
-*.java
-Code With Java/Aula01/bin/module-info.class
-Code With Java/Aula01/src/module-info.java
 Outros Arquivos/
-Code With Java/Aula01/bin/module-info.class
-Code With Java/Aula01/src/module-info.java
+
